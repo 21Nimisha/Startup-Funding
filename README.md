@@ -1,4 +1,4 @@
-# Startup-Funding
+# Startup-Funding Project
 
 1.	Company POV
 ❖	Name
