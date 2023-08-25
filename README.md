@@ -8,10 +8,11 @@
 	- Subindustry
 	- Location
 	- Funding Rounds:
-		§ Stage
-		§ Investors
-		§ Date
-	○ Similar company
+	
+          a. Stage
+	      b. Investors
+	      c. Date
+	- Similar company
 
 2. Investor POV
 	- Name
