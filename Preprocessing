@@ -1,0 +1,10 @@
+Preprocessing Steps on Startup Funding:- 
+
+	-> Drop Remarks Column as no use in analysis
+	-> Set Index sno. to avoid two index
+	-> Rename Column if any wrong given
+	-> Convert Amount to Cr Rs from Dollar
+	-> Date Column change datatype into date as it's in string datatype
+	-> Dropna missing values where data not give any information
+	-> Divide Investors as multiple investors invested in a single Startup
+
