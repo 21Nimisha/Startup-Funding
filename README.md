@@ -1,7 +1,7 @@
-# Startup-Funding Project
+### Startup-Funding Project
 
 
-Company POV
+1. Company POV
 	-  Name
 	- Founders
 	- Industry
@@ -12,7 +12,8 @@ Company POV
 		§ Investors
 		§ Date
 	○ Similar company
-Investor POV
+
+2. Investor POV
 	- Name
 	- Recent Investments
 	- Biggest investments
@@ -22,7 +23,8 @@ Investor POV
 	- city -> pie
 	- YoY investment graph
 	- Similar Investors
-General Analysis
+
+3. General Analysis
 	- MoM chart -> Total + Count
 	- Cards -> Total + Max + Avg -> Total funded startups
 	- Sector Analysis Pie -> top sectors(Count + Sum) 
