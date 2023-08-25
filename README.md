@@ -23,3 +23,7 @@
 ❖	YoY investment graph
 
 
+LINK OF KAGGLE NOTEBOOK - 
+https://www.kaggle.com/code/nimisha21/basic-cleaning-on-startup-data/notebook
+
+
